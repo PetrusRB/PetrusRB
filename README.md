@@ -5,10 +5,10 @@ Meu nome é Pedro, sou um programador junior com o objetivo de sempre melhorar.
 Minha meta é chegar até o senior ou até mais.📈
 </h3>
 
-![Hexagano's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hexagano&show_icons=true&theme=ambient_gradient&locale=pt-br)
+![PetrusRB's GitHub stats](https://github-readme-stats.vercel.app/api?username=PetrusRB&show_icons=true&theme=ambient_gradient&locale=pt-br)
 
 ## 👨‍💻 As Linguagems que trabalho
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hexagano&layout=compact&theme=ambient_gradient&locale=pt-br)](https://github.com/Hexagano/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PetrusRB&layout=compact&theme=ambient_gradient&locale=pt-br)](https://github.com/PetrusRB/github-readme-stats)
 
 ## 🛠️ Atualmente trabalhando
      - Lambda
@@ -16,4 +16,4 @@ Minha meta é chegar até o senior ou até mais.📈
 
 ## 🔴 Social
 [![Top Langs](https://img.shields.io/badge/Pinterest-%23E60023?style=for-the-badge&logo=pinterest&logoColor=white)](https://br.pinterest.com/pedrocodevac/)
-[![Top Langs](https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@hexagano)
+[![Top Langs](https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@PetrusRB)
