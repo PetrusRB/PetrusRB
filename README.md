@@ -11,7 +11,8 @@ Minha meta é chegar até o senior ou até mais.📈
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PetrusRB&layout=compact&theme=ambient_gradient&locale=pt-br)](https://github.com/PetrusRB/github-readme-stats)
 
 ## 🛠️ Atualmente trabalhando
-     - Lambda
+     - Petrus
+     - Solaris
      - Lambot
 
 ## 🔴 Social
