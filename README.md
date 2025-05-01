@@ -7,7 +7,7 @@ Minha meta é chegar até o senior ou até mais.📈
 
 ![PetrusRB's GitHub stats](https://github-readme-stats.vercel.app/api?username=PetrusRB&show_icons=true&theme=ambient_gradient&locale=pt-br)
 
-## 👨‍💻 As Linguagems que trabalho
+## 👨‍💻 Linguagems que eu trabalho
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PetrusRB&layout=compact&theme=ambient_gradient&locale=pt-br)](https://github.com/PetrusRB/github-readme-stats)
 
 ## 🛠️ Atualmente trabalhando
