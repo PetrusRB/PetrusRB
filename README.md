@@ -5,10 +5,10 @@ Meu nome é Pedro, sou um programador junior com o objetivo de sempre melhorar.
 Minha meta é chegar até o senior ou até mais.📈
 </h3>
 
-![PetrusRB's GitHub stats](https://github-readme-stats.vercel.app/api?username=PetrusRB&show_icons=true&theme=darcula&locale=pt-br)
+![PetrusRB's GitHub stats](https://github-readme-stats.vercel.app/api?username=PetrusRB&show_icons=true&theme=codeSTACKr&locale=pt-br)
 
 ## 👨‍💻 Linguagems que trabalho
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PetrusRB&layout=compact&theme=darcula&locale=pt-br)](https://github.com/PetrusRB/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PetrusRB&layout=compact&theme=codeSTACKr&locale=pt-br)](https://github.com/PetrusRB/github-readme-stats)
 
 ## 🛠️ Atualmente trabalhando
      - PetrusBot (um bot para o discord, para moderação, musica, diversão e economia).
