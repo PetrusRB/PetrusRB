@@ -11,9 +11,8 @@ Minha meta é chegar até o senior ou até mais.📈
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PetrusRB&layout=compact&theme=ambient_gradient&locale=pt-br)](https://github.com/PetrusRB/github-readme-stats)
 
 ## 🛠️ Atualmente trabalhando
-     - Petrus
-     - Solaris
-     - Lambot
+     - PetrusBot (um bot para o discord, para moderação, musica, diversão e economia).
+     - Solaris (Uma rede social focada para aqueles que gostam de games).
 
 ## 🔴 Social
 [![Top Langs](https://img.shields.io/badge/Pinterest-%23E60023?style=for-the-badge&logo=pinterest&logoColor=white)](https://br.pinterest.com/pedrocodevac/)
