@@ -12,7 +12,7 @@ Minha meta é chegar até o senior ou até mais.📈
 
 ## 🛠️ Atualmente trabalhando
      - PetrusBot (um bot para o discord, para moderação, musica, diversão e economia).
-     - JoyByte (Uma rede social focada para aqueles que gostam de games).
+     - Fox (Uma rede social focada para aqueles que gostam de games).
 
 ## 🔴 Social
 [![Top Langs](https://img.shields.io/badge/Pinterest-%23E60023?style=for-the-badge&logo=pinterest&logoColor=white)](https://br.pinterest.com/pedrocodevac/)
