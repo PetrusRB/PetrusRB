@@ -27,7 +27,6 @@ Minha meta é chegar até o senior ou até mais.📈
 <img align="left" alt="Firebase" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg" />
 <img align="left" alt="Vscode" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-<br />
 
 ## 🛠️ Atualmente trabalhando
      - PetrusBot (um bot para o discord, para moderação, musica, diversão e economia).
