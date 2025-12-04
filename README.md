@@ -7,7 +7,7 @@ Meta? Alcançar o nível sênior e seguir progredindo. 🚀
 
 ![PetrusRB's GitHub stats](https://github-readme-stats.vercel.app/api?username=PetrusRB&show_icons=true&theme=codeSTACKr&locale=pt-br)
 
-## 🧰 Tecnologias e Ferramentas
+### 🧰 Tecnologias e Ferramentas
 
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" /> <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /> 
 <img align="left" alt="Unity" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" /> 
@@ -28,16 +28,16 @@ Meta? Alcançar o nível sênior e seguir progredindo. 🚀
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <br />
 
----
+#
 
-## 🚧 Projetos em andamento
+### 🚧 Projetos em andamento
 
 - **PetrusBot** — Bot multiuso para Discord (moderação, música, economia, diversão)
 - **Fox** — Rede social para gamers
 
 ---
 
-## 🌎 Onde me encontrar
+### 🌎 Onde me encontrar
 
 [![YouTube](https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@PetrusRB)
 [![Twitter Follow](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/dev_petrus)
