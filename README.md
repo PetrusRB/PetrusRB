@@ -7,7 +7,7 @@ Minha meta é chegar até o senior ou até mais.📈
 
 ![PetrusRB's GitHub stats](https://github-readme-stats.vercel.app/api?username=PetrusRB&show_icons=true&theme=codeSTACKr&locale=pt-br)
 
-## 👨‍💻 Linguagems e ferramentas
+<h2> 👨‍💻 Linguagems e ferramentas </h2>
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="Unity" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />
@@ -28,7 +28,7 @@ Minha meta é chegar até o senior ou até mais.📈
 <img align="left" alt="Vscode" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 
-## 🛠️ Atualmente trabalhando
+<h2> 🛠️ Atualmente trabalhando</h2>
      - PetrusBot (um bot para o discord, para moderação, musica, diversão e economia).
      - Fox (Uma rede social focada para aqueles que gostam de games).
 
