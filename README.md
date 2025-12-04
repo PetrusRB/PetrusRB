@@ -1,7 +1,7 @@
 <h1>Olá, mundo 🌍</h1>
 
 <h3>
-Meu nome é Pedro, sou um programador junior com o objetivo de sempre melhorar.
+Sou um programador junior com o objetivo de sempre melhorar.
 Minha meta é chegar até o senior ou até mais.📈
 </h3>
 
