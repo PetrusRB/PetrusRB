@@ -40,7 +40,7 @@ Meta? Alcançar o nível sênior e seguir progredindo. 🚀
 ### 🌎 Onde me encontrar
 
 [![YouTube](https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@PetrusRB)
-[![Facebook](https://img.shields.io/badge/Facebook-0866ff?style=for-the-badge&logo=facebook&logoColor=blue)](https://www.facebook.com/93w23ff/)
+[![Facebook](https://img.shields.io/badge/Facebook-0866ff?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/93w23ff/)
 [![Twitter Follow](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/dev_petrus)
 
 ---
