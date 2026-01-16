@@ -33,7 +33,6 @@ Meta? Alcançar o nível sênior e seguir progredindo. 🚀
 ### 🚧 Projetos em andamento
 
 - **PetrusBot** — Bot multiuso para Discord (moderação, música, economia, diversão)
-- **Fox** — Rede social para gamers
 
 ---
 
