@@ -1,7 +1,7 @@
 # 👋 Olá! Eu sou o PetrusRB
 
-Programador em desenvolvimento contínuo. Sempre em busca de aprimoramento, aprendizado de novas habilidades e entrega de projetos significativos.  
-Meta? Alcançar o nível sênior e seguir progredindo. 🚀
+Estou aprendendo continuamente e Sempre em busca de aprimoramento, aprendizado de novas habilidades e entrega de projetos significativos.  
+Minha Meta? -> Alcançar o nível sênior e seguir progredindo. 🚀
 
 ---
 
