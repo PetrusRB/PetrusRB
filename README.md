@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou o PetrusRB
+# 👋 Olá! Eu sou o PetrusRB (Pedro)
 
 Estou aprendendo continuamente e Sempre em busca de aprimoramento, aprendizado de novas habilidades e entrega de projetos significativos.  
 Minha Meta? -> Alcançar o nível sênior e seguir progredindo. 🚀
